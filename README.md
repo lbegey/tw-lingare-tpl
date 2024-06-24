@@ -1,4 +1,4 @@
-![lingarepreview](https://github.com/lbegey/tw-lingare-tpl/assets/54446465/3e7dcc7d-572d-4ee3-8e61-a66e826cf966)<img src="https://lbegey.fr/imgs/lingarepreview.png"><br>
+<img src="https://lbegey.fr/imgs/lingarepreview.png"><br>
 
 Simple and modern Fashionw ebsite to share.<br>
 
